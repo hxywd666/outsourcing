@@ -1,0 +1,21 @@
+server:
+  host: 0.0.0.0
+  port: 8080
+
+mysql:
+  host: localhost
+  port: 3306
+  username: root
+  password: 1234
+  database: grade_manager
+
+redis:
+  database: 0
+  host: localhost
+  port: 6379
+
+mail:
+  host: smtp.126.com
+  port: 465
+  username: codingfish0706@126.com
+  password: FXUCf39ZGWYq9rcV

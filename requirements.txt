@@ -3,3 +3,4 @@ Flask
 Flask-CORS
 Flask-SQLAlchemy
 pymysql
+pyyaml
